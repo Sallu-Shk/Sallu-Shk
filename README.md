@@ -28,7 +28,7 @@ _Don't use this to take revenge_<br />
 Clone it by
 ```bash
 git clone
-https://github.com/Sallu-Shk/XLR8_BOMBER-1.git
+https://github.com/Sallu-Shk/XLR8_BOMBER
 ```
 Go to the Xlr8 Directory
 ```bash
