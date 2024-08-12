@@ -20,7 +20,7 @@ apt install figlet -y
 }
 
 
-wget -q --spider https://github.com/mikiadarsh25
+wget -q --spider https://github.com/Sallu-Shk.git
 
 if [ $? -eq 0 ]; then
     just
