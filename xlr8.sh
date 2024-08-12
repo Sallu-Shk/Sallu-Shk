@@ -74,7 +74,7 @@ echo ""
 cd ..
 rm -rf XLR8_BOMBER
 git clone
-https://github.com/Sallu-Shk/XLR8_BOMBER-1.git
+https://github.com/Sallu-Shk/XLR8_BOMBER
 cd XLR8_BOMBER
 chmod +x xlr8.sh
 clear
