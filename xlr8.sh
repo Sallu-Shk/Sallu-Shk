@@ -1,4 +1,4 @@
-
+PJ
 #!/bin/bash
 #---------------------------------
 #        XLR8 BOMBER 2.0 !
@@ -74,7 +74,7 @@ echo ""
 cd ..
 rm -rf XLR8_BOMBER
 git clone
-https://github.com/Sallu-Shk/XLR8_BOMBER-1
+https://github.com/Sallu-Shk/XLR8_BOMBER
 cd XLR8_BOMBER
 chmod +x xlr8.sh
 clear
